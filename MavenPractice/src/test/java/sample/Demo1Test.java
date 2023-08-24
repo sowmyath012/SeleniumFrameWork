@@ -7,14 +7,11 @@ public class Demo1Test {
 
 		@Test
 		public void work() {
+			//second update
 			System.out.println("Hello");
 		}
 
 	}
-//get that
-//push1
-//pull 1
-//push 2 
-//pull 2
+
 
 
